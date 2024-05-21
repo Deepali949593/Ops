@@ -1,4 +1,4 @@
-<heading>ROBIN.IO</heading> 
+<b><heading>ROBIN.IO</heading></b>
 
 Introduction : <p>Robin is a rakuten symphony company, it is a platform based on kubernetes (kubrnetes, is a                                    automated system to deploy software) for the deployment of software. It is one of the particular software to deployment and the automation of a software system.It provides acquracy to other platforms. It gives efficiency and proficiency for many other platforms. It is a main storage medium for large and big data, AL/ML. It helps the other applications to deploy on software and other various platforms. The main characteristivs of the robin system is t provide efficiency and reliability of kubernetes to deployment of the software.</p>
 
@@ -25,11 +25,12 @@ Community Channels : <br>
              2.Github  : https://www.sodafoundation/projects/robin <br>
              3.slack   : https://sodafoundation/slack <br>
 
-Robin products :
-             1.Robin Cloud Native Platform
-             2.Robin Cloud Native Storage
-             3.Robin Multi-cloud Native
+Robin products : <br>
+             1.Robin Cloud Native Platform <br>
+             2.Robin Cloud Native Storage <br>
+             3.Robin Multi-cloud Native <br>
 
-Project Community :
-             Robin is a open sourcesoftware for the projects deployment, it has community engagement such as github,
+Project Community : <br>
+            <p> Robin is a open sourcesoftware for the projects deployment, it has community engagement such as github,
              slack. It allows an organisation to protect their data and store data in a secured manner.
+</p>
