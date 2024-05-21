@@ -4,9 +4,9 @@ Introduction : Robin is a rakuten symphony company, it is a platform based on ku
 
 Project Summary :
                            Website               : www.robin.io <br>
-                           Organization        : Robin systems
-                           License                : Not open source
-                           Open/Proprietary : proprietary
+                           Organization        : Robin systems<br>
+                           License                : Not open source<br>
+                           Open/Proprietary : proprietary<br>
                            source code         : Nil
  
 Key Features: 
