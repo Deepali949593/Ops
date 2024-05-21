@@ -1,17 +1,17 @@
-<p>Terra is an open source storage management and automation project. 
+Terra is an open source storage management and automation project. 
 Terra  is a universal SDS(software-defined storage) controller for connecting  storage to Kubernetes, 
 OpenStack, and VMware environments. 
-SDS controller software provides storage access services,
- networking, and  connectivity. 
+SDS controller software provides storage access services,networking, and  connectivity. 
 The most important characteristic of SDS controller 
 software  is that it makes no assumptions about the capacity 
 or usefulness of the  underlying hardware. Supports to connect 
 different platforms like  Kubernetes, Open Stack, VM ware through plugins 
 SDS is a software controller that manages and virtualizes your physical  storage.
- As a result, you can control where and how data is stored. 
-A  software-defined storage controller provides networking, storage access, and  connectivity services.
- The SDS controller does not rely on the usefulness or  capacity of hardware. 
-</p>
+As a result, you can control where and how data is stored. 
+A software-defined storage controller provides networking, storage access, and  connectivity services.
+The SDS controller does not rely on the usefulness or  capacity of hardware. 
+
+
 Community Channels  
 1. Website : https://sodafoundation.org/ 
 2. GitHub : https://github.com/sodafoundation/ 
@@ -22,9 +22,9 @@ Community Channels
 
 Project Organization: 
 Terra are the projects from Soda Framework. Como and Terra are a part of  the foundation.
- Soda Foundation is a non-profit organization. 
+Soda Foundation is a non-profit organization. 
 SODA  Foundation is an open source project under Linux Foundation that aims to  establish an open,
- unified, and autonomous data management framework for  data mobility from the edge, to core,
- to cloud. 
+unified, and autonomous data management framework for  data mobility from the edge, to core,
+to cloud. 
 
 
